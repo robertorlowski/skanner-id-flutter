@@ -1,0 +1,16 @@
+{
+    "card_details": "Card details",
+    "app_title": "ID Card Scanner",
+    "awaiting_for_permissions": "Awaiting for permissions",
+    "document_type": "Document type",
+    "country": "Country",
+    "surnames": "Surnames",
+    "given_names": "Given names",
+    "document_number": "Document number",
+    "nationality_code": "Nationality code",
+    "birthdate": "Birthdate",
+    "sex": "Sex",
+    "expriy_date": "Expriy date",
+    "personal_number": "Personal number",
+    "personal_number_2": "Personal number 2"
+}

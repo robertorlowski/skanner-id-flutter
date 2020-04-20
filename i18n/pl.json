@@ -1,0 +1,16 @@
+{
+    "card_details": "Dane karty",
+    "app_title": "Skaner dowodów osobistych",
+    "awaiting_for_permissions": "Oczekiwanie na uprawnienia",
+    "document_type": "Typ dokuemntu",
+    "country": "Kraj",
+    "surnames": "Nazwisko",
+    "given_names": "Imiona",
+    "document_number": "Nr dokumentu",
+    "nationality_code": "Kod kraju",
+    "birthdate": "Data urodzenia",
+    "sex": "Płeś",
+    "expriy_date": "Data wygaśnięcia",
+    "personal_number": "PESEL",
+    "personal_number_2": "PESEL"
+}
